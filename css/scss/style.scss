@@ -20,15 +20,20 @@
 }
 
 .profil .card .card-body img {
-    position: absolute;
-    top: 17%;
-    left: 33%;
+	position: absolute;
+	top: 20%;
+	left: 30%;
+	width: 40%;
 }
 
 .profil .card .card-title{
-    margin-top: 15%;
+    margin-top: 20%;
 }
 
+.full{
+    width: 100%;
+    height:auto;
+}
 .about ul {
     padding: 0;
     list-style: none;
