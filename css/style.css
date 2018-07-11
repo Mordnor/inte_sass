@@ -1,24 +1,21 @@
-.profil {
-  background-color: lightblue;
-  text-align: center; }
+.navbar .img-fluid {
+  max-width: 50%;
+  margin: 0 18%; }
 
-.about {
-  background-color: lightgreen; }
-
-.photo {
-  background-color: pink; }
+.navbar {
+  background-color: #3097d1; }
 
 .actualite {
-  background-color: red;
-   }
+  height: 1000px;
+  background-color: #fff;
+  background-clip: border-box;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  border-radius: 0.25rem; }
 
-.add {
-  background-color: grey; }
+.profil {
+  text-align: center; }
 
-.like {
-  background-color: blue; }
-
-.footer {
-  background-color: green; }
+main {
+  padding: 2% 4%; }
 
 /*# sourceMappingURL=style.css.map */

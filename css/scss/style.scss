@@ -1,35 +1,24 @@
+.navbar .img-fluid{
+    max-width: 50%;
+    margin: 0 18%;
+}
+
+.navbar{
+    background-color: #3097d1;
+}
+
+.actualite {
+    height: 1000px;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    border-radius: 0.25rem;
+}
+
 .profil{
-    background-color: lightblue;
-    // height: 200px;
     text-align: center;
 }
 
-.about{
-    background-color: lightgreen;
-    // height: 200px;
-}
-
-.photo{
-    background-color: pink;
-    // height: 200px;
-}
-
-.actualite{
-    background-color: red;
-    height: 1000px;;
-}
-
-.add{
-    background-color: grey;
-    // height: 200px;
-}
-
-.like{
-    background-color: blue;
-    // height: 200px;
-}
-
-.footer{
-    background-color: green;
-    // height: 200px;
+main {
+    padding: 2% 4%;
 }
