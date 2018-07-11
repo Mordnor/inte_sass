@@ -6,7 +6,7 @@
   background-color: #3097d1; }
 
 .actualite {
-  height: 1000px;
+  padding: 2% 4%;
   background-color: #fff;
   background-clip: border-box;
   border: 1px solid rgba(0, 0, 0, 0.125);
@@ -15,7 +15,20 @@
 .profil {
   text-align: center; }
 
+.about ul {
+  padding: 0;
+  list-style: none; }
+
+.about li {
+  margin-bottom: 2%; }
+
+li i {
+  margin-right: 3%; }
+
 main {
   padding: 2% 4%; }
+
+hr {
+  margin-bottom: 5%; }
 
 /*# sourceMappingURL=style.css.map */
