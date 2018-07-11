@@ -19,6 +19,16 @@
     text-align: center;
 }
 
+.profil .card .card-body img {
+    position: absolute;
+    top: 17%;
+    left: 33%;
+}
+
+.profil .card .card-title{
+    margin-top: 15%;
+}
+
 .about ul {
     padding: 0;
     list-style: none;
@@ -26,6 +36,13 @@
 
 .about li {
     margin-bottom: 2%;
+}
+
+.left {
+    border: 1px solid black;
+    border-left: none;
+    border-top: none;
+    border-bottom: none;
 }
 li i {
     margin-right: 3%;
@@ -37,4 +54,13 @@ main {
 
 hr{
     margin-bottom: 5%;
+}
+
+.footer ul{
+    list-style: none;
+    padding: 0;
+}
+
+.footer ul li{
+    display: inline-block;
 }
