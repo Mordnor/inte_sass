@@ -1,2 +1,24 @@
+.profil {
+  background-color: lightblue;
+  text-align: center; }
+
+.about {
+  background-color: lightgreen; }
+
+.photo {
+  background-color: pink; }
+
+.actualite {
+  background-color: red;
+  height: 1000px; }
+
+.add {
+  background-color: grey; }
+
+.like {
+  background-color: blue; }
+
+.footer {
+  background-color: green; }
 
 /*# sourceMappingURL=style.css.map */
